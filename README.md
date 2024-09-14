@@ -2,8 +2,15 @@
 **This is a simple calculator app built using Android Studio, Kotlin, and XML. The app provides basic mathematical operations like addition, subtraction, multiplication, and division. It is designed with a clean, user-friendly interface for quick and easy calculations.**
 
 ## Screenshots
+<div align="center">
+  <img src="images/image-2.png" alt="Screenshot 1" width="500" height="600"/>
+</div>
 
-
+## Video demo
+<div align="center">
+  <img src="images/image-1.gif" alt="Screenshot 1" width="500" height="600"/>
+</div>
+ 
 ## Features
 - Addition: Add two numbers.
 - Subtraction: Subtract one number from another.
@@ -30,5 +37,3 @@ git clone https://github.com/your-username/calculator-app.git
 - **Sync the Gradle files.**
 - **Run the app on an emulator or physical Android device.**
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
